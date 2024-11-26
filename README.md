@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiriane-cintia
-- 👀 I’m interested in full stack project, Elixir(Phoenix) with Angular, VueJS and Typescript
+- 👀 I’m interested in full stack project, Elixir(Phoenix) with React, Angular, VueJS and Typescript
 - 💞️ I’m looking to collaborate on projects that envolves Elixir.
 - 📫 How to reach me: wirianecintia@gmail.com
 
